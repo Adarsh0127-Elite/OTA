@@ -1,6 +1,13 @@
 Changelog
 =========
 
+27/09/2026
+- Implement Double Tap to wake
+- Disabled AOD
+- Source Upstream
+- Build Google Files
+- Build Google Maps
+
 13/09/2026
 - Revamp LunarisDolby UI
 - Add MotCamera5
