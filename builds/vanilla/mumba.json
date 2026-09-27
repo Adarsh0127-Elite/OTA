@@ -4,12 +4,12 @@
       "maintainer": "NoEscape.exe",
       "oem": "Motorola",
       "device": "Motorola G57 Power",
-      "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026091302.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/vanilla/Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026091302.zip/download",
-      "timestamp": 1789267172,
-      "md5": "582bf2011db8e8655c1799db79424dff",
-      "sha256": "2183f75a1e850d43910422f05f619ea941f2165a20026113bf2e9bd7471c7a77",
-      "size": 1783733425,
+      "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026092713.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/vanilla/Lunaris-AOSP-mumba-OFFICIAL-3.12-VANILLA-2026092713.zip/download",
+      "timestamp": 1790514260,
+      "md5": "ec0a1b3423372d15a338d7e213f9b0b6",
+      "sha256": "a4ba7d521b74a6d9cacd4f34840693fccef496fa7f65c4491dc7674b6ba78ab0",
+      "size": 1759783700,
       "version": "3.12",
       "os_patch_level": "2026-09-01",
       "os_sdk_level": 36,
@@ -22,7 +22,7 @@
       "recovery": "https://sourceforge.net/projects/ghosuto/files/mumba/recovery/recovery.img/download",
       "paypal": "",
       "telegram": "https://t.me/noescape_basement",
-      "dt": "https://github.com/AxionAOSP-Devices/android_device_motorola_mumba"
+      "dt": "https://github.com/AxionAOSP-Devices/android_device_motorola_mumba",
       "common-dt": "",
       "kernel": "https://github.com/AxionAOSP-Devices/android_device_motorola_mumba-kernel"
     }
