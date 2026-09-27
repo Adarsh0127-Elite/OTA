@@ -1,6 +1,11 @@
 Changelog
 =========
 
+26/09/2026
+---------------
+- sm8350-common: audio: Add back usb device supporting for "fast input" and "quad mic"
+- sm8350-common: audio: Add back quad mic
+
 12/09/2026
 ---------------
 - sm8350-common: Enable CameraX extensions support
