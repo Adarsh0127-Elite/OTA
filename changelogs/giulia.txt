@@ -1,6 +1,12 @@
 Changelog
 =========
 
+09/29/2026
+----------
+- Added Bypass Charging support
+- Updated dolby audio config
+- Merged latest lineageOS changes
+
 08/30/2026
 ----------
 - Updated blobs and firmware from OOS 16.0.10.500
