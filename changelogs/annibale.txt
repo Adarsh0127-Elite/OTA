@@ -1,6 +1,11 @@
 Changelog
 =========
 
+01/10/2026
+----------
+- Synced with latest source
+- Improved dolby sound quality
+
 04/09/2026
 ----------
 - Synced with latest source
