@@ -1,6 +1,15 @@
 Changelog
 =========
 
+01/10/26
+- Wire up per fps sf durations. (Enjoy more smoothness now)
+- Moved from phase offsets to work durations.
+- Build libvmmem from source.
+- Cleanup in wifi overlays and bluetooth overlays.
+- Fixed issues with light sensor.
+- Added new me3 ui improvement in dolby and also improvement in overall audio quality.
+- Merged all other device tree changes from the lineageOS repo.
+
 16/09/26
 - dolby:Added Vietnamese translations
 - Update Indonesian translations
